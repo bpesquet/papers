@@ -2,7 +2,7 @@
 
 This repository contains the source code for my research papers, (co-)authored using [LaTeX](https://www.latex-project.org/).
 
-Generated files are available on my [homepage](https://www.bpesquet.fr/papers/).
+Generated files for main papers are available on my [homepage](https://www.bpesquet.fr/papers/).
 
 - [Decision-making via evidence accumulation and metacognitive self-regulation](src/icann26/) (submitted to [ICANN26](https://e-nns.org/icann2026/))
 - [A cognitively plausible architecture for a metacognitive agent](src/edmi26/) ([EDMI Day 2026](https://jedmi2026.sciencesconf.org/))
